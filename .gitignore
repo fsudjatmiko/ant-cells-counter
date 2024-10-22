@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Pygame window cache
+*.log
