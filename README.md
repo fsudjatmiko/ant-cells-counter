@@ -21,7 +21,7 @@ I've put every line explaination in the edge detection code for learning purpose
 
 1. Clone the repository and navigate to the project folder:
     ```bash
-    git clone https://github.com/mikrll/ant-cells-counter.git
+    git clone https://github.com/fsudjatmiko/ant-cells-counter.git
     cd edge-detection-gui
     ```
 
