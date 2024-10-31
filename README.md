@@ -22,7 +22,7 @@ I've put every line explaination in the edge detection code for learning purpose
 1. Clone the repository and navigate to the project folder:
     ```bash
     git clone https://github.com/fsudjatmiko/ant-cells-counter.git
-    cd edge-detection-gui
+    cd ant-cells-counter
     ```
 
 2. Create a virtual environment and activate it:
